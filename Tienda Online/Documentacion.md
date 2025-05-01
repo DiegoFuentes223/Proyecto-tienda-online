@@ -2,11 +2,11 @@
 
 ## 📊 Modelo Relacional
 
-![Mi Imagen](../views/publics/imagenes/diagrama_modelo_relacional.jpg)
+![Modelo relacional](views/publics/imagenes/diagrama_modelo_relacional.jpg)
 
 
 ## 📁 Estructura de Carpetas
-![Mi Imagen](../views/publics/imagenes/estructura_de_archivos.jpg)
+![Estructura de archivos](views/publics/imagenes/estructura_de_archivos.jpg)
 
 # 📦 Estructura del Proyecto - Tienda Online
 
